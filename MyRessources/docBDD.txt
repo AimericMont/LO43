@@ -1,0 +1,240 @@
+Atlanta Hawks ATL
+Trae Young 77 73 86
+Kent Bazemore 77 72 78
+Taurean Prince 77 80 74
+John Collins 79 80 81
+Dewayne Dedmon 77 87 70
+Lloyd Pierce 83 
+77
+Brooklyn Nets BKN
+DAngelo Russell 83 80 87
+Allen Crabbe 76 80 75
+DeMarre Carroll 77 79 78
+Rondae HollisJefferson 78 70 80
+Jarrett Allen 78 85 70
+Kenny Atkinson 88
+78
+Boston Celtics BOS
+Kyrie Irving 93 88 98
+Jaylen Brown 84 86 83
+Gordon Hayward 88 84 92
+Jayson Tatum 87 87 88
+AL Horford 86 90 82
+Brad Stevens 91
+87
+Charlotte Hornets CHA
+Kembal Walker 86 80 91
+Nicolas Batum 77 75 76
+Michael KiddGilchrist 75 78 73
+Marvin Williams 76 80 74
+Cody Zeller 77 85 72
+James Borrego 85
+78
+Chicago Bulls CHI
+Kris Dunn 78 72 83
+Zach Lavine 80 85 76
+Jabari Parker 81 80 83
+Lauri Markkanen 82 89 78
+Wendell CarterJr 77 89 74
+Jim Boylen 82
+80
+Cleveland Cavaliers CLE
+Collin Sexton 76 73 80
+JR Smith 75 75 82
+Cedi Osman 75 76 72
+Kevin Love 86 82 90
+Tristan Thompson 76 80 72
+John Beilein 81
+78
+Dallas Mavericks DAL
+Dennis SmithJr 78 79 78
+Luka Doncic 79 75 85
+Wesley Matthews 77 72 78
+Harisson Barnes 82 78 84
+Deandre Jordan 86 90 65
+Rick Carlisle 81
+80
+Denver Nuggets DEN
+Jamal Murray 81 75 88
+Gary Harris 83 78 86
+Will Barton 79 80 74
+Paul Millsap 82 88 76
+Nikola Jokic 89 90 90
+Michael Malone 93
+83
+Detroit Pistons DET
+Reggie Jackson 79 75 82
+Reggie Bullock 76 77 78
+Glenn RobinsonIII 75 72 80
+Black Griffin 86 83 76
+Andre Drummond 87 89 81
+Dwane Casey 87
+81
+GoldenState Warriors GSW
+Stephen Curry 95 91 99
+Klay Thompson 89 80 98
+Kevin Durant 97	85 98
+Draymond Green 87 88 86
+DeMarcus Cousins 90 90 87
+Steve Kerr 94
+92
+Houston Rockets HOU
+Chris Paul 90 84 95
+James Harden 96 85 98
+Carmelo Anthony 79 76 88
+PJ Tucker 76 80 83
+Clint Capela 84 90 75
+Mike D'Antoni 91
+85
+Indiana Pacers IND
+Darren Collison 79 75 85
+Victor Oladipo 88 89 93
+Bojan Bogdanovic 79 80 82
+Thaddeus Young 78 76 72
+Miles Turner 80 85 75
+Nate McMillan 90
+81
+LA Clippers LAC
+Patrick Beverley 78 80 74
+Shawn Bradley 77 74 82
+Danilo Gallinari 77 74 85
+Thobias Harris 82 85 85
+Marcin Gortat 77 78 70
+Doc Rivers 87
+78
+LA Lakers LAL
+Rajon Rondo 79 73 85
+Kentavious Caldwell-pope 76 74 80
+Lebron James 98 97 99
+Brandon Ingram 82 74 89
+Javale Mcgee 77 89 68
+Frank Vogel 85
+82
+Memphis Grizzlies MEM
+Foxx Conley 83 70 83
+Aaron Brooks 75 77 73
+Kyle Anderson 77 80 76
+Jaren JacksonJR 78 82 80
+Marc Gasol 85 88 80
+JB Bickerstaff 82
+80
+Miami Heat MIA
+Goran Dragic 84 70 89
+Dion Waiters 76 72 78
+Jason Richardson 78 80 80
+James Johnson 77 83 75
+Hassan Whiteside 85 89 80
+Erik Spoelstra 86
+80
+Milwaukee Bucks MIL
+Eric Bledsoe 81 74 84
+Tony Snell 73 77 70
+Kris Middleton 84 80 89
+Giannis Antetokounmpo 94 95 90
+Brook Lopez 79 85 80
+Mike Budenholzer 94
+82
+Minnesota Timberwolves MIN
+Jeff Teague 79 75 86
+Andrex Wiggins 81 74 89
+Jimmy Butler 89 88 92
+Taj Gibson 76 80 74
+KarlAnthony Towns 91 92 86
+Ryan Saunders 84
+83
+NewOrleans Pelicans NOP
+Gary Payton 77 77 80
+Jrue Holiday 85 82 80
+ETwaun Moore 75 77 71
+Julius Randle 80 90 72
+Anthony Davis 94 96 90
+Alvin Gentry 83
+82
+NewYork Knicks NYK
+Frank Ntilikina 74 77 75
+Mario Hezonja 76 77 78
+Tim HardawayJr 78 80 74
+Kristaps Porzingis 88 80 89
+Enes Kanter 79 85 78
+David Fizdale 80
+79
+OklahomaCity Thunder OKC
+Russell Westbrook 93 90 92
+Andre Anderson 76 80 71
+Paul George 89 89 93
+Julian Grant 75 80 80
+Steven Adams 84 90 79
+Billy Donovan 89
+83
+Orlando Magic ORL
+DJ Augustin 76 77 74
+Evan Fournier 79 76 83
+Terrence Ross 74 74 75
+Aaron Gordon 82 85 81
+Mohamed Bamba 77 80 71
+Steve Clifford 89
+78
+Philadelphia Sixers PHI
+Ben Simmons 87 90 69
+JJ Redick 79 75 90
+Robert Covington 79 80 77
+Dario Saric 79 85 74
+Joel Embiid 90 93 87
+Brett Brown 92
+83
+Phoenix Suns PHX
+Devin Booker 87 80 95
+Josh Jackson 77 77 76
+Trevor Ariza 78 80 81
+TJ Warren 80 85 74
+Deandre Ayton 79 90 71
+Monty Williams 80
+80
+Portland Blazers POR
+Damian Lillard 90 82 95
+CJ Mccollum 87 80 94
+Evan Turner 73 77 74
+AlFarouq Aminu 76 80 71
+Jusuf Nurkic 79 84 78
+Terry Stotts 92
+81
+Sacramento Kings SAC
+DeAaron Fox 78 70 85
+Buddy Hield 79 80 82
+Bogdan Bogdanovic 77 77 77
+Marvin BagleyIII 78 80 77
+Willie CauleyStein 79 85 70
+Luke Walton 86
+78
+SanAntonio Spurs SAS
+Dejounte Murray 78 84 74
+DeMar DeRozan 89 87 94
+Rudy Gay 78 85 77
+LaMarcus Aldridge 88 90 89
+Pau Gasol 79 80 77
+Gregg Popovich 88
+82
+Toronto Raptors TOR
+Kyle Lowry 85 85 87
+Danny Green 75 79 84
+Kawhi Leonard 94 93 97
+Serge Ibaka 79 81 83
+Jonas Valanciunas 82 83 81
+Nick Nurse 93
+84
+Utah Jazz UTA
+Ricky Rubio 77 75 80
+Donovan Mitchell 87 80 88
+Joe Ingles 79 76 80
+Derrick Favors 79 78 80
+Rudy Gobert 87 90 73
+Quin Snyder 90
+82
+Washington Wizards WAS
+John Wall 89 80 95
+Bradley Beal 87 76 89
+Otto Porter 81 85 74
+Markieff Morris 77 85 72
+Dwight Howard 81 90 69
+Scott Brooks 84
+83

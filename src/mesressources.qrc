@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/franchiselogo">
+        <file alias="ATL">MyRessources/ATLlogo.png</file>
+        <file alias="BKN">MyRessources/BKNlogo.png</file>
+        <file alias="BOS">MyRessources/BOSlogo.png</file>
+        <file alias="CHA">MyRessources/CHAlogo.png</file>
+        <file alias="CHI">MyRessources/CHIlogo.png</file>
+        <file alias="CLE">MyRessources/CLElogo.png</file>
+        <file alias="DAL">MyRessources/DALlogo.png</file>
+        <file alias="DEN">MyRessources/DENlogo.png</file>
+        <file alias="DET">MyRessources/DETlogo.png</file>
+        <file alias="GSW">MyRessources/GSWlogo.png</file>
+        <file alias="HOU">MyRessources/HOUlogo.png</file>
+        <file alias="IND">MyRessources/INDlogo.png</file>
+        <file alias="LAC">MyRessources/LAClogo.png</file>
+        <file alias="LAL">MyRessources/LALlogo.png</file>
+        <file alias="MEM">MyRessources/MEMlogo.png</file>
+        <file alias="MIL">MyRessources/MILlogo.png</file>
+        <file alias="MIN">MyRessources/MINlogo.png</file>
+        <file alias="NOP">MyRessources/NOPlogo.png</file>
+        <file alias="NYK">MyRessources/NYKlogo.png</file>
+        <file alias="OKC">MyRessources/OKClogo.png</file>
+        <file alias="ORL">MyRessources/ORLlogo.png</file>
+        <file alias="PHI">MyRessources/PHIlogo.png</file>
+        <file alias="PHX">MyRessources/PHXlogo.png</file>
+        <file alias="POR">MyRessources/PORlogo.png</file>
+        <file alias="SAC">MyRessources/SAClogo.png</file>
+        <file alias="SAS">MyRessources/SASlogo.png</file>
+        <file alias="TOR">MyRessources/TORlogo.png</file>
+        <file alias="UTA">MyRessources/UTAlogo.png</file>
+        <file alias="WAS">MyRessources/WASlogo.png</file>
+        <file alias="MIA">MyRessources/MIAlogo.png</file>
+    </qresource>
+    <qresource prefix="/theme">
+        <file alias="imageDeFond">MyRessources/imageDeFond.png</file>
+        <file alias="transparentBackground">MyRessources/transparentBackground.png</file>
+        <file alias="lo43Shot">MyRessources/LO43ShotLogo.png</file>
+        <file alias="imageFondGame">MyRessources/imageFondGame.png</file>
+        <file alias="fondBar">MyRessources/fondBar.png</file>
+        <file alias="fondAroundTir">MyRessources/fondAroundTir.png</file>
+        <file alias="blackPlayer">MyRessources/blackPlayer.png</file>
+        <file alias="whitePlayer">MyRessources/whitePlayer.png</file>
+        <file alias="imgScore">MyRessources/imgScore.png</file>
+        <file alias="greenVoyant">MyRessources/greenVoyant.png</file>
+        <file alias="redVoyant">MyRessources/redVoyant.png</file>
+        <file alias="blackVoyant">MyRessources/blackVoyant.png</file>
+        <file alias="darkGrey">MyRessources/darkGrey.png</file>
+        <file alias="lightGrey">MyRessources/lightGrey.png</file>
+        <file alias="degradeBar">MyRessources/degradeBar.png</file>
+    </qresource>
+    <qresource prefix="/postition">
+        <file alias="sglogo">MyRessources/sglogo.png</file>
+        <file alias="sflogo">MyRessources/sflogo.png</file>
+        <file alias="pglogo">MyRessources/pglogo.png</file>
+        <file alias="pflogo">MyRessources/pflogo.png</file>
+        <file alias="cologo">MyRessources/cologo.png</file>
+        <file alias="clogo">MyRessources/clogo.png</file>
+    </qresource>
+</RCC>
